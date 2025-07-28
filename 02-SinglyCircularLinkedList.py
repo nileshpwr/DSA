@@ -1,5 +1,5 @@
 '''
-@author: Yogeshwar Shukla 
+@author: Nilesh Pawar
 @date: 26th April 2025 
 @goal: To implement singly linked list of integers 
 '''
